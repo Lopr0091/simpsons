@@ -1,0 +1,8 @@
+opencv-python
+gradio
+notebook
+matplotlib
+torchvision
+
+
+scikit-learn
