@@ -1,8 +1,10 @@
+torchvision
+torch
 opencv-python
 gradio
 notebook
 matplotlib
-torchvision
-
-
 scikit-learn
+seaborn
+pandas
+duckdb
